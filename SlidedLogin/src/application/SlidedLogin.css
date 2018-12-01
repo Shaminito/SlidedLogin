@@ -1,0 +1,45 @@
+.panel_login {
+	-fx-background-radius: 15;
+	-fx-background-color: #DCFAFA;
+}
+
+.title_login {
+	-fx-text-fill: #5ECEF4;
+	-fx-font-size: 20;
+	-fx-font-family: System;
+}
+
+.user_pwd_field {
+	-fx-border-color: #5ECEF4;
+	-fx-border-radius: 3;
+}
+
+.boton {
+	-fx-background-color: #7ED8F6;
+	-fx-background-radius: 5;
+	-fx-font-size: 15;
+	-fx-text-fill: #1079F6;
+	-fx-font-family: System;
+}
+
+.boton2 {
+	-fx-font-size: 15;
+	-fx-text-fill: #1079F6;
+	-fx-font-family: System;
+}
+
+.pane1_img {
+	-fx-background-image: url('../../resources/img/Slide1.png');
+}
+
+.pane2_img {
+	-fx-background-image: url('../../resources/img/Slide2.png');
+}
+
+.pane3_img {
+	-fx-background-image: url('../../resources/img/Slide3.png');
+}
+
+.pane4_img {
+	-fx-background-image: url('../../resources/img/Slide4.png');
+}
